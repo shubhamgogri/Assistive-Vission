@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050551115925",
+    "project_id": "assistive-vision-e33a8",
+    "storage_bucket": "assistive-vision-e33a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050551115925:android:5d7b82e75cb6baf7cb3b9c",
+        "android_client_info": {
+          "package_name": "com.shubhamapps.asistivevision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050551115925-l2j8a2lhuef3np17v26rlpe2vb1dp6rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-5VcWictvvi03bZ674k_FnVBTE1hSCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050551115925-l2j8a2lhuef3np17v26rlpe2vb1dp6rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
