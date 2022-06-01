@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ric"
+        android:icon="@drawable/ic_outline_broken_image_24"
+        android:title="@string/RichImageCaptioning"/>
+
+    <item
+        android:id="@+id/cpr"
+        android:icon="@drawable/ic_polo_shirt"
+        android:title="@string/ClothPatternRecognition"/>
+
+    <item
+        android:id="@+id/htr"
+        android:enabled="true"
+        android:icon="@drawable/ic_feedback"
+        android:title="@string/HandWrittenTextRecognition"/>
+
+    <item
+        android:id="@+id/icc"
+        android:icon="@drawable/ic_rupee"
+        android:title="@string/ImageCurrencyCalculator"/>
+</menu>

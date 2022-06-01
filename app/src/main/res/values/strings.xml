@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Asistive Vision</string>
+    <string name="RichImageCaptioning">R I C</string>
+    <string name="HandWrittenTextRecognition">HTR</string>
+    <string name="ImageCurrencyCalculator">ICC</string>
+    <string name="toggle">Toggle</string>
+    <string name="speak">Speak</string>
+    <string name="ClothPatternRecognition">CPR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
